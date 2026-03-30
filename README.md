@@ -96,6 +96,8 @@ Full source code available here:
 * T. Pavankumar
 * JVVV Prasad
 
+* https://github.com/vvenkatadhirisatyam78-eng/ROBOTIC-ARM-USING-ECG-SENSOR-/blob/main/TEAM.jpeg
+
 ---
 
 ##  Institution
