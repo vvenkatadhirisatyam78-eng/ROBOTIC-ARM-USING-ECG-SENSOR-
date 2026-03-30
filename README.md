@@ -97,7 +97,11 @@ Full source code available here:
 * JVVV Prasad
 
 * https://github.com/vvenkatadhirisatyam78-eng/ROBOTIC-ARM-USING-ECG-SENSOR-/blob/main/TEAM.jpeg
+---
+##  Demo Video
 
+ Click to watch the robotic arm in action:  
+[Watch Demo](https://drive.google.com/file/d/1NuQReQmisIh7MiYbYXJapy0vNOj5RWU4/view?usp=sharing)
 ---
 
 ##  Institution
